@@ -9,7 +9,7 @@ while (true)
 
     if (!int.TryParse(s, out a))
     {
-        Console.WriteLine("Error: please enter an integer");
+        Console.WriteLine("Error: enter an integer");
     }
     else
     {
